@@ -72,3 +72,15 @@ And you are good to go. Now you can open your browser (preferrably, incognito) a
 - As 'localhost' is used as the server's host address, it is accessable only from the system it's running on. 
 - ```BACKLOG = 100```, which means it can support up to 100 pending connections in queue.
 - ```BUFFER_SIZE = 10000```, which means it can receive up to 10000 bytes at once.
+
+<br>
+
+## Websites for Testing
+
+These are some of the websites you can try to test the functionality of the program:
+
+- http://info.cern.ch
+- http://www.educationboardresults.gov.bd/
+- http://www.parliament.gov.bd/
+- www.example.com
+- www.isbn.org
